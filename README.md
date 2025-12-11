@@ -4,9 +4,23 @@
 
 I design and ship production LLM systems for KYC, AML, and adverse media screening. My work sits at the intersection of AI reliability and regulatory requirements — where getting it wrong isn't an option.
 
+### 🚀 Latest: Grep.ai
+
+Just shipped **[Grep](https://grep.ai)** — an AI-powered business due diligence agent built on Anthropic's Agent SDK.
+
+Give it a business name, get a complete intelligence report in under 3 minutes:
+- Verified business profiles across 190+ jurisdictions
+- UBO verification and ownership structures  
+- Sanctions screening (OFAC, UN, EU, UK), PEP checks, adverse media
+- Risk assessment with cited sources
+
+Try it free through December with code `GREPIT` → [grep.ai](https://grep.ai)
+
+---
+
 ### What I'm building
 
-- 🤖 **Multi-agent orchestration** — Claude API, tool use, structured outputs at scale
+- 🤖 **Multi-agent orchestration** — Claude API, Anthropic Agent SDK, tool use at scale
 - 📊 **LLM evaluation systems** — Statistical frameworks for compliance-critical AI
 - 📄 **Document understanding** — OCR, entity extraction, cross-document verification
 - ⚡ **Production infrastructure** — AWS/GCP/Kubernetes, Terraform, Redis/Celery, microservices 
